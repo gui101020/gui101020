@@ -1,4 +1,7 @@
-meu email de contato é @biscaia.guilherme@escola.pr.gov.br
+#Sobre mim
+
+
+-meu email de contato é @biscaia.guilherme@escola.pr.gov.br
 - 👋 olá meu nome é @gui101020
 -  👍 eu estou interessado em aprender a programar novas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
